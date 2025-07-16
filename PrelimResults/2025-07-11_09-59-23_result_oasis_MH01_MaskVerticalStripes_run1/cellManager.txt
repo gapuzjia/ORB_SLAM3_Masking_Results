@@ -1,0 +1,2122 @@
+ - Pyramid Level Cells: 
+   - Level 0: 20x12
+   - Level 1: 17x10
+   - Level 2: 14x8
+   - Level 3: 11x7
+   - Level 4: 9x5
+   - Level 5: 7x4
+   - Level 6: 6x3
+   - Level 7: 5x2
+ - Oasis Enabled
+Frame 1403636579.763555527 finished in 25.419093000 ms stats:
+ - Recorded Frames: 1
+ - Elapsed Cells: 1400
+ - Average Cells Per Frame: 1400.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636579.813555479 finished in 21.568722000 ms stats:
+ - Recorded Frames: 2
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 1070.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636579.863555670 finished in 20.373200000 ms stats:
+ - Recorded Frames: 3
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 960.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636579.913555384 finished in 26.335628000 ms stats:
+ - Recorded Frames: 4
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 905.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636579.963555574 finished in 21.768810000 ms stats:
+ - Recorded Frames: 5
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 872.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.013555527 finished in 43.202623000 ms stats:
+ - Recorded Frames: 6
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 850.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636580.063555479 finished in 26.148133000 ms stats:
+ - Recorded Frames: 7
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 834.285714286
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.113555431 finished in 25.937511000 ms stats:
+ - Recorded Frames: 8
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 822.500000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.163555622 finished in 25.338680000 ms stats:
+ - Recorded Frames: 9
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 813.333333333
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.213555574 finished in 26.591704000 ms stats:
+ - Recorded Frames: 10
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 806.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.263555527 finished in 36.824237000 ms stats:
+ - Recorded Frames: 11
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 800.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636580.313555479 finished in 26.015234000 ms stats:
+ - Recorded Frames: 12
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 795.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.363555670 finished in 30.165029000 ms stats:
+ - Recorded Frames: 13
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 790.769230769
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636580.413555384 finished in 30.657798000 ms stats:
+ - Recorded Frames: 14
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 787.142857143
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636580.463555574 finished in 31.085367000 ms stats:
+ - Recorded Frames: 15
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 784.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636580.513555527 finished in 23.828487000 ms stats:
+ - Recorded Frames: 16
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 781.250000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.563555479 finished in 24.058807000 ms stats:
+ - Recorded Frames: 17
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 778.823529412
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.613555431 finished in 23.540683000 ms stats:
+ - Recorded Frames: 18
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 776.666666667
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.663555622 finished in 28.593631000 ms stats:
+ - Recorded Frames: 19
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 774.736842105
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636580.713555574 finished in 31.550094000 ms stats:
+ - Recorded Frames: 20
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 773.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636580.763555527 finished in 23.989173000 ms stats:
+ - Recorded Frames: 21
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 771.428571429
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.813555479 finished in 24.195713000 ms stats:
+ - Recorded Frames: 22
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 770.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.863555670 finished in 31.367763000 ms stats:
+ - Recorded Frames: 23
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 768.695652174
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636580.913555384 finished in 25.197601000 ms stats:
+ - Recorded Frames: 24
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 767.500000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636580.963555574 finished in 33.251653000 ms stats:
+ - Recorded Frames: 25
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 766.400000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636581.013555527 finished in 27.759882000 ms stats:
+ - Recorded Frames: 26
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 765.384615385
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636581.063555479 finished in 25.363473000 ms stats:
+ - Recorded Frames: 27
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 764.444444444
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636581.113555431 finished in 33.193526000 ms stats:
+ - Recorded Frames: 28
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 763.571428571
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636581.163555622 finished in 27.169996000 ms stats:
+ - Recorded Frames: 29
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 762.758620690
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636581.213555574 finished in 35.369286000 ms stats:
+ - Recorded Frames: 30
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 762.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636581.263555527 finished in 40.508993000 ms stats:
+ - Recorded Frames: 31
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 761.290322581
+ - Frame Budget in Cells: 0
+ - FOV Mask: 9x9
+Frame 1403636581.313555479 finished in 36.728285000 ms stats:
+ - Recorded Frames: 32
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 760.625000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636581.363555670 finished in 31.987499000 ms stats:
+ - Recorded Frames: 33
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 760.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636581.413555384 finished in 34.557322000 ms stats:
+ - Recorded Frames: 34
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 759.411764706
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636581.463555574 finished in 30.847440000 ms stats:
+ - Recorded Frames: 35
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 758.857142857
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636581.513555527 finished in 31.835634000 ms stats:
+ - Recorded Frames: 36
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 758.333333333
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636581.563555479 finished in 29.164326000 ms stats:
+ - Recorded Frames: 37
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 757.837837838
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636581.613555431 finished in 28.098509000 ms stats:
+ - Recorded Frames: 38
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 757.368421053
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636581.663555622 finished in 29.744627000 ms stats:
+ - Recorded Frames: 39
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 756.923076923
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636581.713555574 finished in 27.995244000 ms stats:
+ - Recorded Frames: 40
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 756.500000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636581.763555527 finished in 27.226351000 ms stats:
+ - Recorded Frames: 41
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 756.097560976
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636581.813555479 finished in 29.259590000 ms stats:
+ - Recorded Frames: 42
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 755.714285714
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636581.863555670 finished in 33.802718000 ms stats:
+ - Recorded Frames: 43
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 755.348837209
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636581.913555384 finished in 28.414480000 ms stats:
+ - Recorded Frames: 44
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 755.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636581.963555574 finished in 28.643907000 ms stats:
+ - Recorded Frames: 45
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 754.666666667
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636582.013555527 finished in 27.557308000 ms stats:
+ - Recorded Frames: 46
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 754.347826087
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636582.063555479 finished in 30.778318000 ms stats:
+ - Recorded Frames: 47
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 754.042553191
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636582.113555431 finished in 25.634468000 ms stats:
+ - Recorded Frames: 48
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 753.750000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636582.163555622 finished in 25.623143000 ms stats:
+ - Recorded Frames: 49
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 753.469387755
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636582.213555574 finished in 27.604524000 ms stats:
+ - Recorded Frames: 50
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 753.200000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636582.263555527 finished in 33.564958000 ms stats:
+ - Recorded Frames: 51
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 752.941176471
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636582.313555479 finished in 28.361879000 ms stats:
+ - Recorded Frames: 52
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 752.692307692
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636582.363555670 finished in 24.067687000 ms stats:
+ - Recorded Frames: 53
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 752.452830189
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636582.413555384 finished in 32.373424000 ms stats:
+ - Recorded Frames: 54
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 752.222222222
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636582.463555574 finished in 34.307641000 ms stats:
+ - Recorded Frames: 55
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 752.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636582.513555527 finished in 33.752268000 ms stats:
+ - Recorded Frames: 56
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 751.785714286
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636582.563555479 finished in 30.900849000 ms stats:
+ - Recorded Frames: 57
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 751.578947368
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636582.613555431 finished in 27.199175000 ms stats:
+ - Recorded Frames: 58
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 751.379310345
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636582.663555622 finished in 35.247528000 ms stats:
+ - Recorded Frames: 59
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 751.186440678
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636582.713555574 finished in 34.529390000 ms stats:
+ - Recorded Frames: 60
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 751.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636582.763555527 finished in 35.457602000 ms stats:
+ - Recorded Frames: 61
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 750.819672131
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636582.813555479 finished in 35.197549000 ms stats:
+ - Recorded Frames: 62
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 750.645161290
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636582.863555670 finished in 32.588081000 ms stats:
+ - Recorded Frames: 63
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 750.476190476
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636582.913555384 finished in 34.334065000 ms stats:
+ - Recorded Frames: 64
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 750.312500000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636582.963555574 finished in 31.472813000 ms stats:
+ - Recorded Frames: 65
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 750.153846154
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636583.013555527 finished in 35.961878000 ms stats:
+ - Recorded Frames: 66
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 750.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636583.063555479 finished in 33.204894000 ms stats:
+ - Recorded Frames: 67
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 749.850746269
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636583.113555431 finished in 34.549231000 ms stats:
+ - Recorded Frames: 68
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 749.705882353
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636583.163555622 finished in 36.256547000 ms stats:
+ - Recorded Frames: 69
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 749.565217391
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636583.213555574 finished in 30.226950000 ms stats:
+ - Recorded Frames: 70
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 749.428571429
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636583.263555527 finished in 37.514029000 ms stats:
+ - Recorded Frames: 71
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 749.295774648
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636583.313555479 finished in 30.980762000 ms stats:
+ - Recorded Frames: 72
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 749.166666667
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636583.363555670 finished in 28.779358000 ms stats:
+ - Recorded Frames: 73
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 749.041095890
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636583.413555384 finished in 28.225739000 ms stats:
+ - Recorded Frames: 74
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 748.918918919
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636583.463555574 finished in 33.474709000 ms stats:
+ - Recorded Frames: 75
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 748.800000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636583.513555527 finished in 37.096231000 ms stats:
+ - Recorded Frames: 76
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 748.684210526
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636583.563555479 finished in 31.498002000 ms stats:
+ - Recorded Frames: 77
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 748.571428571
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636583.613555431 finished in 31.066370000 ms stats:
+ - Recorded Frames: 78
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 748.461538462
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636583.663555622 finished in 35.201979000 ms stats:
+ - Recorded Frames: 79
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 748.354430380
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636583.713555574 finished in 29.479772000 ms stats:
+ - Recorded Frames: 80
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 748.250000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636583.763555527 finished in 32.736118000 ms stats:
+ - Recorded Frames: 81
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 748.148148148
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636583.813555479 finished in 32.651310000 ms stats:
+ - Recorded Frames: 82
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 748.048780488
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636583.863555670 finished in 25.168174000 ms stats:
+ - Recorded Frames: 83
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.951807229
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636583.913555384 finished in 26.269918000 ms stats:
+ - Recorded Frames: 84
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.857142857
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636583.963555574 finished in 31.799366000 ms stats:
+ - Recorded Frames: 85
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.764705882
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636584.013555527 finished in 30.718579000 ms stats:
+ - Recorded Frames: 86
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.674418605
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636584.063555479 finished in 25.325613000 ms stats:
+ - Recorded Frames: 87
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.586206897
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636584.113555431 finished in 32.612757000 ms stats:
+ - Recorded Frames: 88
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.500000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636584.163555622 finished in 32.462673000 ms stats:
+ - Recorded Frames: 89
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.415730337
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636584.213555574 finished in 35.525410000 ms stats:
+ - Recorded Frames: 90
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.333333333
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636584.263555527 finished in 33.587004000 ms stats:
+ - Recorded Frames: 91
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.252747253
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636584.313555479 finished in 27.952110000 ms stats:
+ - Recorded Frames: 92
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.173913043
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636584.363555670 finished in 33.738579000 ms stats:
+ - Recorded Frames: 93
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.096774194
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636584.413555384 finished in 24.269000000 ms stats:
+ - Recorded Frames: 94
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 747.021276596
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636584.463555574 finished in 27.093931000 ms stats:
+ - Recorded Frames: 95
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.947368421
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636584.513555527 finished in 27.197214000 ms stats:
+ - Recorded Frames: 96
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.875000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636584.563555479 finished in 26.754710000 ms stats:
+ - Recorded Frames: 97
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.804123711
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636584.613555431 finished in 30.772367000 ms stats:
+ - Recorded Frames: 98
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.734693878
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636584.663555622 finished in 27.127247000 ms stats:
+ - Recorded Frames: 99
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.666666667
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636584.713555574 finished in 35.102798000 ms stats:
+ - Recorded Frames: 100
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.600000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636584.763555527 finished in 30.377159000 ms stats:
+ - Recorded Frames: 101
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.534653465
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636584.813555479 finished in 29.969694000 ms stats:
+ - Recorded Frames: 102
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.470588235
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636584.863555670 finished in 33.213252000 ms stats:
+ - Recorded Frames: 103
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.407766990
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636584.913555384 finished in 27.716436000 ms stats:
+ - Recorded Frames: 104
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.346153846
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636584.963555574 finished in 35.458629000 ms stats:
+ - Recorded Frames: 105
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.285714286
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636585.013555527 finished in 27.677008000 ms stats:
+ - Recorded Frames: 106
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.226415094
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636585.063555479 finished in 30.903324000 ms stats:
+ - Recorded Frames: 107
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.168224299
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636585.113555431 finished in 40.025994000 ms stats:
+ - Recorded Frames: 108
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.111111111
+ - Frame Budget in Cells: 0
+ - FOV Mask: 9x9
+Frame 1403636585.163555622 finished in 36.747100000 ms stats:
+ - Recorded Frames: 109
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.055045872
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636585.213555574 finished in 28.277661000 ms stats:
+ - Recorded Frames: 110
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 746.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636585.263555527 finished in 38.948048000 ms stats:
+ - Recorded Frames: 111
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.945945946
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636585.313555479 finished in 34.589760000 ms stats:
+ - Recorded Frames: 112
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.892857143
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636585.363555670 finished in 29.856580000 ms stats:
+ - Recorded Frames: 113
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.840707965
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636585.413555384 finished in 34.658332000 ms stats:
+ - Recorded Frames: 114
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.789473684
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636585.463555574 finished in 34.907181000 ms stats:
+ - Recorded Frames: 115
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.739130435
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636585.513555527 finished in 35.859265000 ms stats:
+ - Recorded Frames: 116
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.689655172
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636585.563555479 finished in 28.457348000 ms stats:
+ - Recorded Frames: 117
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.641025641
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636585.613555431 finished in 32.992191000 ms stats:
+ - Recorded Frames: 118
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.593220339
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636585.663555622 finished in 33.411868000 ms stats:
+ - Recorded Frames: 119
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.546218487
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636585.713555574 finished in 33.549662000 ms stats:
+ - Recorded Frames: 120
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.500000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636585.763555527 finished in 34.456838000 ms stats:
+ - Recorded Frames: 121
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.454545455
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636585.813555479 finished in 28.693449000 ms stats:
+ - Recorded Frames: 122
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.409836066
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636585.863555670 finished in 33.731255000 ms stats:
+ - Recorded Frames: 123
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.365853659
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636585.913555384 finished in 29.280602000 ms stats:
+ - Recorded Frames: 124
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.322580645
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636585.963555574 finished in 25.800702000 ms stats:
+ - Recorded Frames: 125
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.280000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636586.013555527 finished in 29.894606000 ms stats:
+ - Recorded Frames: 126
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.238095238
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636586.063555479 finished in 25.258257000 ms stats:
+ - Recorded Frames: 127
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.196850394
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636586.113555431 finished in 29.125753000 ms stats:
+ - Recorded Frames: 128
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.156250000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636586.163555622 finished in 31.775177000 ms stats:
+ - Recorded Frames: 129
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.116279070
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636586.213555574 finished in 27.314188000 ms stats:
+ - Recorded Frames: 130
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.076923077
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636586.263555527 finished in 30.865947000 ms stats:
+ - Recorded Frames: 131
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.038167939
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636586.313555479 finished in 14.925506000 ms stats:
+ - Recorded Frames: 132
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 745.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636586.363555670 finished in 45.592014000 ms stats:
+ - Recorded Frames: 133
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.962406015
+ - Frame Budget in Cells: 0
+ - FOV Mask: 8x8
+Frame 1403636586.413555384 finished in 23.046479000 ms stats:
+ - Recorded Frames: 134
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.925373134
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636586.463555574 finished in 25.203708000 ms stats:
+ - Recorded Frames: 135
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.888888889
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636586.513555527 finished in 30.894959000 ms stats:
+ - Recorded Frames: 136
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.852941176
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636586.563555479 finished in 31.362182000 ms stats:
+ - Recorded Frames: 137
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.817518248
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636586.613555431 finished in 32.570825000 ms stats:
+ - Recorded Frames: 138
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.782608696
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636586.663555622 finished in 25.092119000 ms stats:
+ - Recorded Frames: 139
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.748201439
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636586.713555574 finished in 25.188545000 ms stats:
+ - Recorded Frames: 140
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.714285714
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636586.763555527 finished in 29.836721000 ms stats:
+ - Recorded Frames: 141
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.680851064
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636586.813555479 finished in 26.406128000 ms stats:
+ - Recorded Frames: 142
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.647887324
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636586.863555670 finished in 22.999459000 ms stats:
+ - Recorded Frames: 143
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.615384615
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636586.913555384 finished in 24.456917000 ms stats:
+ - Recorded Frames: 144
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.583333333
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636586.963555574 finished in 31.442843000 ms stats:
+ - Recorded Frames: 145
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.551724138
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636587.013555527 finished in 25.311877000 ms stats:
+ - Recorded Frames: 146
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.520547945
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636587.063555479 finished in 25.502837000 ms stats:
+ - Recorded Frames: 147
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.489795918
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636587.113555431 finished in 30.180330000 ms stats:
+ - Recorded Frames: 148
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.459459459
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636587.163555622 finished in 29.268764000 ms stats:
+ - Recorded Frames: 149
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.429530201
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636587.213555574 finished in 33.675754000 ms stats:
+ - Recorded Frames: 150
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.400000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636587.263555527 finished in 36.789124000 ms stats:
+ - Recorded Frames: 151
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.370860927
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636587.313555479 finished in 30.147098000 ms stats:
+ - Recorded Frames: 152
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.342105263
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636587.363555670 finished in 28.450480000 ms stats:
+ - Recorded Frames: 153
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.313725490
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636587.413555384 finished in 26.717343000 ms stats:
+ - Recorded Frames: 154
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.285714286
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636587.463555574 finished in 23.298055000 ms stats:
+ - Recorded Frames: 155
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.258064516
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636587.513555527 finished in 26.070572000 ms stats:
+ - Recorded Frames: 156
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.230769231
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636587.563555479 finished in 32.050140000 ms stats:
+ - Recorded Frames: 157
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.203821656
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636587.613555431 finished in 27.349976000 ms stats:
+ - Recorded Frames: 158
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.177215190
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636587.663555622 finished in 25.169872000 ms stats:
+ - Recorded Frames: 159
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.150943396
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636587.713555574 finished in 31.288876000 ms stats:
+ - Recorded Frames: 160
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.125000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636587.763555527 finished in 35.447636000 ms stats:
+ - Recorded Frames: 161
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.099378882
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636587.813555479 finished in 34.323063000 ms stats:
+ - Recorded Frames: 162
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.074074074
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636587.863555670 finished in 25.873848000 ms stats:
+ - Recorded Frames: 163
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.049079755
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636587.913555384 finished in 29.732240000 ms stats:
+ - Recorded Frames: 164
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.024390244
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636587.963555574 finished in 33.089413000 ms stats:
+ - Recorded Frames: 165
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 744.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636588.013555527 finished in 34.097743000 ms stats:
+ - Recorded Frames: 166
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.975903614
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636588.063555479 finished in 26.901499000 ms stats:
+ - Recorded Frames: 167
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.952095808
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636588.113555431 finished in 27.484792000 ms stats:
+ - Recorded Frames: 168
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.928571429
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636588.163555622 finished in 27.234369000 ms stats:
+ - Recorded Frames: 169
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.905325444
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636588.213555574 finished in 24.054617000 ms stats:
+ - Recorded Frames: 170
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.882352941
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636588.263555527 finished in 26.447000000 ms stats:
+ - Recorded Frames: 171
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.859649123
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636588.313555479 finished in 29.189755000 ms stats:
+ - Recorded Frames: 172
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.837209302
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636588.363555670 finished in 24.897996000 ms stats:
+ - Recorded Frames: 173
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.815028902
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636588.413555384 finished in 36.042230000 ms stats:
+ - Recorded Frames: 174
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.793103448
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636588.463555574 finished in 39.559091000 ms stats:
+ - Recorded Frames: 175
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.771428571
+ - Frame Budget in Cells: 0
+ - FOV Mask: 9x9
+Frame 1403636588.513555527 finished in 33.811176000 ms stats:
+ - Recorded Frames: 176
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.750000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636588.563555479 finished in 28.356397000 ms stats:
+ - Recorded Frames: 177
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.728813559
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636588.613555431 finished in 27.585325000 ms stats:
+ - Recorded Frames: 178
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.707865169
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636588.663555622 finished in 34.054590000 ms stats:
+ - Recorded Frames: 179
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.687150838
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636588.713555574 finished in 33.458868000 ms stats:
+ - Recorded Frames: 180
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.666666667
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636588.763555527 finished in 35.327759000 ms stats:
+ - Recorded Frames: 181
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.646408840
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636588.813555479 finished in 27.726563000 ms stats:
+ - Recorded Frames: 182
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.626373626
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636588.863555670 finished in 29.151693000 ms stats:
+ - Recorded Frames: 183
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.606557377
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636588.913555384 finished in 29.468497000 ms stats:
+ - Recorded Frames: 184
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.586956522
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636588.963555574 finished in 26.505164000 ms stats:
+ - Recorded Frames: 185
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.567567568
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636589.013555527 finished in 30.051763000 ms stats:
+ - Recorded Frames: 186
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.548387097
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636589.063555479 finished in 27.323415000 ms stats:
+ - Recorded Frames: 187
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.529411765
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636589.113555431 finished in 33.083584000 ms stats:
+ - Recorded Frames: 188
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.510638298
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636589.163555622 finished in 26.015279000 ms stats:
+ - Recorded Frames: 189
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.492063492
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636589.213555574 finished in 25.749374000 ms stats:
+ - Recorded Frames: 190
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.473684211
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636589.263555527 finished in 32.140263000 ms stats:
+ - Recorded Frames: 191
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.455497382
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636589.313555479 finished in 33.680568000 ms stats:
+ - Recorded Frames: 192
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.437500000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636589.363555670 finished in 32.791976000 ms stats:
+ - Recorded Frames: 193
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.419689119
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636589.413555384 finished in 31.442089000 ms stats:
+ - Recorded Frames: 194
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.402061856
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636589.463555574 finished in 36.116665000 ms stats:
+ - Recorded Frames: 195
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.384615385
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636589.513555527 finished in 25.932947000 ms stats:
+ - Recorded Frames: 196
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.367346939
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636589.563555479 finished in 33.837169000 ms stats:
+ - Recorded Frames: 197
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.350253807
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636589.613555431 finished in 25.052840000 ms stats:
+ - Recorded Frames: 198
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.333333333
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636589.663555622 finished in 27.936575000 ms stats:
+ - Recorded Frames: 199
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.316582915
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636589.713555574 finished in 26.640827000 ms stats:
+ - Recorded Frames: 200
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.300000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636589.763555527 finished in 33.732185000 ms stats:
+ - Recorded Frames: 201
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.283582090
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636589.813555479 finished in 31.927882000 ms stats:
+ - Recorded Frames: 202
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.267326733
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636589.863555670 finished in 36.654035000 ms stats:
+ - Recorded Frames: 203
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.251231527
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636589.913555384 finished in 33.583788000 ms stats:
+ - Recorded Frames: 204
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.235294118
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636589.963555574 finished in 35.165299000 ms stats:
+ - Recorded Frames: 205
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.219512195
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636590.013555527 finished in 32.831723000 ms stats:
+ - Recorded Frames: 206
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.203883495
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636590.063555479 finished in 37.609884000 ms stats:
+ - Recorded Frames: 207
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.188405797
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636590.113555431 finished in 34.238924000 ms stats:
+ - Recorded Frames: 208
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.173076923
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636590.163555622 finished in 40.167979000 ms stats:
+ - Recorded Frames: 209
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.157894737
+ - Frame Budget in Cells: 0
+ - FOV Mask: 9x9
+Frame 1403636590.213555574 finished in 34.409505000 ms stats:
+ - Recorded Frames: 210
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.142857143
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636590.263555527 finished in 27.124188000 ms stats:
+ - Recorded Frames: 211
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.127962085
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636590.313555479 finished in 31.627416000 ms stats:
+ - Recorded Frames: 212
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.113207547
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636590.363555670 finished in 32.729042000 ms stats:
+ - Recorded Frames: 213
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.098591549
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636590.413555384 finished in 33.097077000 ms stats:
+ - Recorded Frames: 214
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.084112150
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636590.463555574 finished in 30.552059000 ms stats:
+ - Recorded Frames: 215
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.069767442
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636590.513555527 finished in 36.446446000 ms stats:
+ - Recorded Frames: 216
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.055555556
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636590.563555479 finished in 33.131517000 ms stats:
+ - Recorded Frames: 217
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.041474654
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636590.613555431 finished in 27.935122000 ms stats:
+ - Recorded Frames: 218
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.027522936
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636590.663555622 finished in 33.935057000 ms stats:
+ - Recorded Frames: 219
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.013698630
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636590.713555574 finished in 34.160911000 ms stats:
+ - Recorded Frames: 220
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 743.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636590.763555527 finished in 33.887570000 ms stats:
+ - Recorded Frames: 221
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.986425339
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636590.813555479 finished in 29.407067000 ms stats:
+ - Recorded Frames: 222
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.972972973
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636590.863555670 finished in 28.835065000 ms stats:
+ - Recorded Frames: 223
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.959641256
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636590.913555384 finished in 33.137415000 ms stats:
+ - Recorded Frames: 224
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.946428571
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636590.963555574 finished in 35.695869000 ms stats:
+ - Recorded Frames: 225
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.933333333
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636591.013555527 finished in 36.225508000 ms stats:
+ - Recorded Frames: 226
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.920353982
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636591.063555479 finished in 32.871963000 ms stats:
+ - Recorded Frames: 227
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.907488987
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636591.113555431 finished in 30.883671000 ms stats:
+ - Recorded Frames: 228
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.894736842
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636591.163555622 finished in 34.877000000 ms stats:
+ - Recorded Frames: 229
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.882096070
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636591.213555574 finished in 34.294822000 ms stats:
+ - Recorded Frames: 230
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.869565217
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636591.263555527 finished in 28.849805000 ms stats:
+ - Recorded Frames: 231
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.857142857
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636591.313555479 finished in 34.437927000 ms stats:
+ - Recorded Frames: 232
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.844827586
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636591.363555670 finished in 38.316630000 ms stats:
+ - Recorded Frames: 233
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.832618026
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636591.413555384 finished in 34.836131000 ms stats:
+ - Recorded Frames: 234
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.820512821
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636591.463555574 finished in 29.873577000 ms stats:
+ - Recorded Frames: 235
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.808510638
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636591.513555527 finished in 27.970012000 ms stats:
+ - Recorded Frames: 236
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.796610169
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636591.563555479 finished in 34.273525000 ms stats:
+ - Recorded Frames: 237
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.784810127
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636591.613555431 finished in 34.646437000 ms stats:
+ - Recorded Frames: 238
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.773109244
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636591.663555622 finished in 32.340403000 ms stats:
+ - Recorded Frames: 239
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.761506276
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636591.713555574 finished in 28.127294000 ms stats:
+ - Recorded Frames: 240
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.750000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636591.763555527 finished in 33.871974000 ms stats:
+ - Recorded Frames: 241
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.738589212
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636591.813555479 finished in 33.642870000 ms stats:
+ - Recorded Frames: 242
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.727272727
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636591.863555670 finished in 34.951154000 ms stats:
+ - Recorded Frames: 243
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.716049383
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636591.913555384 finished in 28.739850000 ms stats:
+ - Recorded Frames: 244
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.704918033
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636591.963555574 finished in 27.909181000 ms stats:
+ - Recorded Frames: 245
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.693877551
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636592.013555527 finished in 30.849004000 ms stats:
+ - Recorded Frames: 246
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.682926829
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636592.063555479 finished in 32.344594000 ms stats:
+ - Recorded Frames: 247
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.672064777
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636592.113555431 finished in 32.308350000 ms stats:
+ - Recorded Frames: 248
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.661290323
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636592.163555622 finished in 26.002775000 ms stats:
+ - Recorded Frames: 249
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.650602410
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636592.213555574 finished in 25.848035000 ms stats:
+ - Recorded Frames: 250
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.640000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636592.263555527 finished in 33.220650000 ms stats:
+ - Recorded Frames: 251
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.629482072
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636592.313555479 finished in 31.525283000 ms stats:
+ - Recorded Frames: 252
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.619047619
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636592.363555670 finished in 31.585004000 ms stats:
+ - Recorded Frames: 253
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.608695652
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636592.413555384 finished in 30.615365000 ms stats:
+ - Recorded Frames: 254
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.598425197
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636592.463555574 finished in 31.722712000 ms stats:
+ - Recorded Frames: 255
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.588235294
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636592.513555527 finished in 32.261559000 ms stats:
+ - Recorded Frames: 256
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.578125000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636592.563555479 finished in 33.871446000 ms stats:
+ - Recorded Frames: 257
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.568093385
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636592.613555431 finished in 29.436404000 ms stats:
+ - Recorded Frames: 258
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.558139535
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636592.663555622 finished in 32.447848000 ms stats:
+ - Recorded Frames: 259
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.548262548
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636592.713555574 finished in 25.985438000 ms stats:
+ - Recorded Frames: 260
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.538461538
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636592.763555527 finished in 34.489511000 ms stats:
+ - Recorded Frames: 261
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.528735632
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636592.813555479 finished in 29.884156000 ms stats:
+ - Recorded Frames: 262
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.519083969
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636592.863555670 finished in 33.384868000 ms stats:
+ - Recorded Frames: 263
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.509505703
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636592.913555384 finished in 25.202004000 ms stats:
+ - Recorded Frames: 264
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.500000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636592.963555574 finished in 35.255884000 ms stats:
+ - Recorded Frames: 265
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.490566038
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636593.013555527 finished in 22.885173000 ms stats:
+ - Recorded Frames: 266
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.481203008
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636593.063555479 finished in 32.571999000 ms stats:
+ - Recorded Frames: 267
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.471910112
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636593.113555431 finished in 24.200756000 ms stats:
+ - Recorded Frames: 268
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.462686567
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636593.163555622 finished in 26.901219000 ms stats:
+ - Recorded Frames: 269
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.453531599
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636593.213555574 finished in 29.945823000 ms stats:
+ - Recorded Frames: 270
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.444444444
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636593.263555527 finished in 27.425172000 ms stats:
+ - Recorded Frames: 271
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.435424354
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636593.313555479 finished in 31.909812000 ms stats:
+ - Recorded Frames: 272
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.426470588
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636593.363555670 finished in 25.959147000 ms stats:
+ - Recorded Frames: 273
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.417582418
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636593.413555384 finished in 27.187981000 ms stats:
+ - Recorded Frames: 274
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.408759124
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636593.463555574 finished in 28.597951000 ms stats:
+ - Recorded Frames: 275
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.400000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636593.513555527 finished in 25.531884000 ms stats:
+ - Recorded Frames: 276
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.391304348
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636593.563555479 finished in 34.406061000 ms stats:
+ - Recorded Frames: 277
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.382671480
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636593.613555431 finished in 33.542583000 ms stats:
+ - Recorded Frames: 278
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.374100719
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636593.663555622 finished in 35.767466000 ms stats:
+ - Recorded Frames: 279
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.365591398
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636593.713555574 finished in 35.725618000 ms stats:
+ - Recorded Frames: 280
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.357142857
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636593.763555527 finished in 38.982274000 ms stats:
+ - Recorded Frames: 281
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.348754448
+ - Frame Budget in Cells: 0
+ - FOV Mask: 9x9
+Frame 1403636593.813555479 finished in 29.488516000 ms stats:
+ - Recorded Frames: 282
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.340425532
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636593.863555670 finished in 37.292634000 ms stats:
+ - Recorded Frames: 283
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.332155477
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636593.913555384 finished in 28.671167000 ms stats:
+ - Recorded Frames: 284
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.323943662
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636593.963555574 finished in 34.720458000 ms stats:
+ - Recorded Frames: 285
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.315789474
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636594.013555527 finished in 25.499150000 ms stats:
+ - Recorded Frames: 286
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.307692308
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636594.063555479 finished in 35.663504000 ms stats:
+ - Recorded Frames: 287
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.299651568
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636594.113555431 finished in 26.809414000 ms stats:
+ - Recorded Frames: 288
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.291666667
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636594.163555622 finished in 29.272106000 ms stats:
+ - Recorded Frames: 289
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.283737024
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636594.213555574 finished in 32.663689000 ms stats:
+ - Recorded Frames: 290
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.275862069
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636594.263555527 finished in 34.476570000 ms stats:
+ - Recorded Frames: 291
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.268041237
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636594.313555479 finished in 25.481078000 ms stats:
+ - Recorded Frames: 292
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.260273973
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636594.363555670 finished in 26.748090000 ms stats:
+ - Recorded Frames: 293
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.252559727
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636594.413555384 finished in 30.162686000 ms stats:
+ - Recorded Frames: 294
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.244897959
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636594.463555574 finished in 33.407070000 ms stats:
+ - Recorded Frames: 295
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.237288136
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636594.513555527 finished in 26.859122000 ms stats:
+ - Recorded Frames: 296
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.229729730
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636594.563555479 finished in 36.884080000 ms stats:
+ - Recorded Frames: 297
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.222222222
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636594.613555431 finished in 32.691166000 ms stats:
+ - Recorded Frames: 298
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.214765101
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636594.663555622 finished in 32.972624000 ms stats:
+ - Recorded Frames: 299
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.207357860
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636594.713555574 finished in 24.368343000 ms stats:
+ - Recorded Frames: 300
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.200000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636594.763555527 finished in 29.055902000 ms stats:
+ - Recorded Frames: 301
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.192691030
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636594.813555479 finished in 29.341880000 ms stats:
+ - Recorded Frames: 302
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.185430464
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636594.863555670 finished in 27.107646000 ms stats:
+ - Recorded Frames: 303
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.178217822
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636594.913555384 finished in 25.647113000 ms stats:
+ - Recorded Frames: 304
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.171052632
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636594.963555574 finished in 34.160060000 ms stats:
+ - Recorded Frames: 305
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.163934426
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636595.013555527 finished in 31.607298000 ms stats:
+ - Recorded Frames: 306
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.156862745
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636595.063555479 finished in 25.565927000 ms stats:
+ - Recorded Frames: 307
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.149837134
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636595.113555431 finished in 27.728888000 ms stats:
+ - Recorded Frames: 308
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.142857143
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636595.163555622 finished in 32.250213000 ms stats:
+ - Recorded Frames: 309
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.135922330
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636595.213555574 finished in 23.954735000 ms stats:
+ - Recorded Frames: 310
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.129032258
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636595.263555527 finished in 26.801586000 ms stats:
+ - Recorded Frames: 311
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.122186495
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636595.313555479 finished in 27.260454000 ms stats:
+ - Recorded Frames: 312
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.115384615
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636595.363555670 finished in 33.085995000 ms stats:
+ - Recorded Frames: 313
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.108626198
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636595.413555384 finished in 33.010464000 ms stats:
+ - Recorded Frames: 314
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.101910828
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636595.463555574 finished in 34.800642000 ms stats:
+ - Recorded Frames: 315
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.095238095
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636595.513555527 finished in 27.297835000 ms stats:
+ - Recorded Frames: 316
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.088607595
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636595.563555479 finished in 28.259342000 ms stats:
+ - Recorded Frames: 317
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.082018927
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636595.613555431 finished in 26.170981000 ms stats:
+ - Recorded Frames: 318
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.075471698
+ - Frame Budget in Cells: 0
+ - FOV Mask: 22x22
+Frame 1403636595.663555622 finished in 26.719368000 ms stats:
+ - Recorded Frames: 319
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.068965517
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636595.713555574 finished in 27.959066000 ms stats:
+ - Recorded Frames: 320
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.062500000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636595.763555527 finished in 34.790070000 ms stats:
+ - Recorded Frames: 321
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.056074766
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636595.813555479 finished in 27.014261000 ms stats:
+ - Recorded Frames: 322
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.049689441
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636595.863555670 finished in 26.881738000 ms stats:
+ - Recorded Frames: 323
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.043343653
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636595.913555384 finished in 29.003447000 ms stats:
+ - Recorded Frames: 324
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.037037037
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636595.963555574 finished in 33.749502000 ms stats:
+ - Recorded Frames: 325
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.030769231
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636596.013555527 finished in 29.826354000 ms stats:
+ - Recorded Frames: 326
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.024539877
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636596.063555479 finished in 35.297605000 ms stats:
+ - Recorded Frames: 327
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.018348624
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636596.113555431 finished in 27.763646000 ms stats:
+ - Recorded Frames: 328
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.012195122
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636596.163555622 finished in 33.592505000 ms stats:
+ - Recorded Frames: 329
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.006079027
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636596.213555574 finished in 30.693635000 ms stats:
+ - Recorded Frames: 330
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 742.000000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636596.263555527 finished in 26.566247000 ms stats:
+ - Recorded Frames: 331
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.993957704
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636596.313555479 finished in 32.762212000 ms stats:
+ - Recorded Frames: 332
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.987951807
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636596.363555670 finished in 29.938818000 ms stats:
+ - Recorded Frames: 333
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.981981982
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636596.413555384 finished in 35.572616000 ms stats:
+ - Recorded Frames: 334
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.976047904
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636596.463555574 finished in 27.862677000 ms stats:
+ - Recorded Frames: 335
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.970149254
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636596.513555527 finished in 31.595053000 ms stats:
+ - Recorded Frames: 336
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.964285714
+ - Frame Budget in Cells: 0
+ - FOV Mask: 12x12
+Frame 1403636596.563555479 finished in 27.817658000 ms stats:
+ - Recorded Frames: 337
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.958456973
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636596.613555431 finished in 32.458687000 ms stats:
+ - Recorded Frames: 338
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.952662722
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636596.663555622 finished in 26.843645000 ms stats:
+ - Recorded Frames: 339
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.946902655
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
+Frame 1403636596.713555574 finished in 35.754940000 ms stats:
+ - Recorded Frames: 340
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.941176471
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636596.763555527 finished in 33.807204000 ms stats:
+ - Recorded Frames: 341
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.935483871
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636596.813555479 finished in 28.283146000 ms stats:
+ - Recorded Frames: 342
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.929824561
+ - Frame Budget in Cells: 0
+ - FOV Mask: 13x13
+Frame 1403636596.863555670 finished in 27.083569000 ms stats:
+ - Recorded Frames: 343
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.924198251
+ - Frame Budget in Cells: 0
+ - FOV Mask: 14x14
+Frame 1403636596.913555384 finished in 33.355797000 ms stats:
+ - Recorded Frames: 344
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.918604651
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636596.963555574 finished in 34.085930000 ms stats:
+ - Recorded Frames: 345
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.913043478
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636597.013555527 finished in 39.629409000 ms stats:
+ - Recorded Frames: 346
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.907514451
+ - Frame Budget in Cells: 0
+ - FOV Mask: 9x9
+Frame 1403636597.063555479 finished in 34.963782000 ms stats:
+ - Recorded Frames: 347
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.902017291
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636597.113555431 finished in 33.157518000 ms stats:
+ - Recorded Frames: 348
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.896551724
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636597.163555622 finished in 34.060644000 ms stats:
+ - Recorded Frames: 349
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.891117479
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636597.213555574 finished in 35.237183000 ms stats:
+ - Recorded Frames: 350
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.885714286
+ - Frame Budget in Cells: 0
+ - FOV Mask: 10x10
+Frame 1403636597.263555527 finished in 32.989754000 ms stats:
+ - Recorded Frames: 351
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.880341880
+ - Frame Budget in Cells: 0
+ - FOV Mask: 11x11
+Frame 1403636597.313555479 finished in 26.822613000 ms stats:
+ - Recorded Frames: 352
+ - Elapsed Cells: 740
+ - Average Cells Per Frame: 741.875000000
+ - Frame Budget in Cells: 0
+ - FOV Mask: 15x15
