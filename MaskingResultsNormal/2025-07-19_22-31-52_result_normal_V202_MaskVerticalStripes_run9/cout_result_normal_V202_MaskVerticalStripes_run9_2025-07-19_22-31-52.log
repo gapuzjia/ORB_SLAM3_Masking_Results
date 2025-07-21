@@ -1,0 +1,276 @@
+[RUNNING] MaskVerticalStripes | V202 | result_normal | Run 9
+num_seq = 1
+file name: dataset-V202_stereo_imu
+Loading images for sequence 0...LOADED!
+Loading IMU for sequence 0...LOADED!
+
+-------
+
+ORB-SLAM3 Copyright (C) 2017-2020 Carlos Campos, Richard Elvira, Juan J. Gómez, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+ORB-SLAM2 Copyright (C) 2014-2016 Raúl Mur-Artal, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions. See LICENSE.txt.
+
+Built with REGISTER_TIMES
+Git Commit Hash: a5a281a-dirty
+
+Build Type: Release
+
+Compiled with C++ version: 201703
+
+Input sensor was set to: Stereo-Inertial
+Loading settings from ./Examples/Stereo-Inertial/EuRoC.yaml
+Camera1.k3 optional parameter does not exist...
+	-Loaded camera 1
+Camera2.k3 optional parameter does not exist...
+	-Loaded camera 2
+Camera.newHeight optional parameter does not exist...
+Camera.newWidth optional parameter does not exist...
+	-Loaded image info
+IMU.InsertKFsWhenLost optional parameter does not exist...
+	-Loaded IMU calibration
+	-Loaded ORB settings
+	-Loaded viewer settings
+System.LoadAtlasFromFile optional parameter does not exist...
+System.SaveAtlasToFile optional parameter does not exist...
+	-Loaded Atlas settings
+System.thFarPoints optional parameter does not exist...
+System.enableDeadlines optional parameter does not exist...
+System.enableFOV optional parameter does not exist...
+System.maskHeight optional parameter does not exist...
+System.maskWidth optional parameter does not exist...
+System.enableOasis optional parameter does not exist...
+System.dumpMapPoints optional parameter does not exist...
+	-Loaded misc parameters
+	-Computed rectification maps
+----------------------------------
+SLAM settings: 
+	-Camera 1 parameters (Pinhole): [ 458.65399169921875 457.29598999023438 367.21499633789062 248.375 ]
+	-Camera 1 distortion parameters: [  -0.28340810537338257 0.073959067463874817 0.00019359000725671649 1.7618711353861727e-05 ]
+	-Camera 2 parameters (Pinhole: [ 457.58700561523438 456.13400268554688 379.99899291992188 255.23800659179688 ]
+	-Camera 1 distortion parameters: [  -0.2836836576461792 0.074512839317321777 -0.00010473000293131918 -3.555907096597366e-05 ]
+	-Original image size: [ 752 , 480 ]
+	-Current image size: [ 752 , 480 ]
+	-Camera 1 parameters after rectification: [  456.71499633789062 456.71499633789062 364.52615356445312 257.268798828125 ]
+	-Sequence FPS: 20
+	-Stereo baseline: 0.11007784307003021
+	-Stereo depth threshold : 60
+	-Gyro noise: 0.00016999999934341758
+	-Accelerometer noise: 0.0020000000949949026
+	-Gyro walk: 1.9392999092815444e-05
+	-Accelerometer walk: 0.0030000000260770321
+	-IMU frequency: 200
+	-Features per image: 1200
+	-ORB scale factor: 1.2000000476837158
+	-ORB number of scales: 8
+	-Initial FAST threshold: 20
+	-Min FAST threshold: 7
+
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+Initialization of Atlas from scratch 
+Creation of new map with id: 0
+Creation of new map with last KF id: 0
+Seq. Name: 
+There are 1 cameras in the atlas
+Camera 0 is pinhole
+SLAM Started at System Time: 1752979618.41987
+not IMU meas
+not IMU meas
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+not enough acceleration
+First KF:0; Map init KF:0
+New Map created with 464 points
+Active map: 0
+start VIBA 1
+end VIBA 1
+start VIBA 2
+end VIBA 2
+*Loop detected
+phi =  -0.014239665607812984  -0.020390386509954995 -0.0085362098875645925
+BAD LOOP!!!
+*Loop detected
+phi = 0.0064239890199048908  0.056544710373842039  0.044539634781845333
+BAD LOOP!!!
+*Loop detected
+phi = 0.0081727081502670947  0.009150674731926902  0.029275565034974974
+BAD LOOP!!!
+*Loop detected
+phi = 0.004757837432994563  0.04381052961435318 0.042713078938610885
+BAD LOOP!!!
+*Loop detected
+phi = -0.0055271512077240247   0.033591913043762828   0.024558749352923986
+BAD LOOP!!!
+*Loop detected
+phi = -0.0037731282864285191   0.056826171371956065   0.059016029711231051
+BAD LOOP!!!
+*Loop detected
+phi = 0.0068463740565305638  0.023800569643829265  0.054171725919352917
+BAD LOOP!!!
+*Loop detected
+phi =  0.013171810147015297 0.0097255449262177319   0.00447379912793239
+BAD LOOP!!!
+*Loop detected
+phi = -0.031945157024401816  0.016819856878478236  0.031691033875476116
+BAD LOOP!!!
+*Loop detected
+phi = -0.0062710622125410872 -0.0031468145663753368  0.0029690749586289032
+Local Mapping STOP
+Local Mapping RELEASE
+Local Mapping STOP
+Local Mapping RELEASE
+Shutdown
+SLAM Finished at System Time: 1752979752.66344
+
+ TIME STATS in ms (mean$\pm$std)
+OpenCV version: 4.8.1
+---------------------------
+Tracking
+
+ORB Extraction: 19.048$\pm$2.1802
+Stereo Matching: 7.3943$\pm$1.9527
+IMU Preintegration: 0.21625$\pm$0.078836
+Pose Prediction: 0.298$\pm$1.1771
+LM Track: 17.361$\pm$3.4196
+New KF decision: 0.33082$\pm$0.3656
+Total Tracking: 48.956$\pm$5.1812
+
+
+
+Local Mapping
+
+KF Insertion: 12.77$\pm$3.8144
+MP Culling: 0.74437$\pm$0.24408
+MP Creation: 41.159$\pm$14.313
+LBA: 156.08$\pm$39.024
+KF Culling: 17.735$\pm$12.371
+Total Local Mapping: 228.32$\pm$65.317
+---------------------------
+
+LBA complexity (mean$\pm$std)
+LBA Edges: 3841.6$\pm$1120.6
+LBA KF optimized: 6.5$\pm$2.2913
+LBA KF fixed: 1$\pm$0
+LBA MP: nan$\pm$nan
+
+LBA executions: 395
+LBA aborts: 0
+---------------------------
+
+Map complexity
+KFs in map: 119
+MPs in map: 9200
+---------------------------
+
+Place Recognition (mean$\pm$std)
+Database Query: 1.5741$\pm$0.66053
+SE3 estimation: 16.631$\pm$14.387
+Total Place Recognition: 15.471$\pm$15.023
+
+
+Loop Closing (mean$\pm$std)
+Loop Fusion: 76.625$\pm$0
+Essential Graph: 90.978$\pm$0
+Total Loop Closing: 180.44$\pm$0
+
+Num exec: 1
+Number of KFs: nan$\pm$nan
+
+Map Merging (mean$\pm$std)
+Merge Maps: nan$\pm$nan
+Welding BA: nan$\pm$nan
+Optimization Ess.: nan$\pm$nan
+Total Map Merging: nan$\pm$nan
+
+Num exec: 0
+Number of KFs: nan$\pm$nan
+Number of MPs: nan$\pm$nan
+
+Full GBA (mean$\pm$std)
+GBA: 939.39$\pm$0
+Map Update: 11.561$\pm$0
+Total Full GBA: 950.95$\pm$0
+
+Num exec: 1
+Num abort: 0
+Number of KFs: 129$\pm$0
+Number of MPs: 11068$\pm$0
+
+Saving trajectory to f_dataset-V202_stereo_imu.txt ...
+There are 1 maps in the atlas
+  Map 0 has 119 KFs
+
+End of saving trajectory to f_dataset-V202_stereo_imu.txt ...
+
+Saving keyframe trajectory to kf_dataset-V202_stereo_imu.txt ...
