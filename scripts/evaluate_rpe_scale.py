@@ -11,7 +11,7 @@ def read_trajectory(file_path):
         for line in f:
             if line.startswith("#") or line.strip() == "":
                 continue
-            parts = line.strip().split()
+            parts = line.strip().replace(',', ' ').split()
             timestamp = float(parts[0])
             position = np.array([float(parts[1]), float(parts[2]), float(parts[3])])
             orientation = R.from_quat([
@@ -57,7 +57,7 @@ def plot_errors(trans_errors, rot_errors, output_path=None):
     else:
         plt.show()
 
-def write_rpe_metrics_to_csv(csv_path, run_id, dataset, mask, trans_errors, rot_errors):
+def write_rpe_metrics_to_csv(csv_path, run_id, dataset, trans_errors, rot_errors):
     rmse_trans = np.sqrt(np.mean(np.square(trans_errors)))
     rmse_rot = np.sqrt(np.mean(np.square(rot_errors)))
     file_exists = os.path.isfile(csv_path)
@@ -98,8 +98,11 @@ def main():
     else:
         plot_errors(trans_errors, rot_errors)
 
+    run_id = os.path.basename(os.path.dirname(args.estimated_file))
+    dataset = run_id.split('_')[4]
+
     if args.csv:
-        write_rpe_metrics_to_csv(args.csv, run_id, dataset, mask, trans_errors, rot_errors)
+        write_rpe_metrics_to_csv(args.csv, run_id, dataset, trans_errors, rot_errors)
 
 if __name__ == "__main__":
     main()
