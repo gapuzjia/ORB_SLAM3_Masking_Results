@@ -18,9 +18,9 @@ GT_FILES = {
 }
 
 # Output files
-ate_csv = "ATE_results.csv"
-rpe_csv = "RPE_results.csv"
-plot_dir = "ResultsErrorOverTime"
+ate_csv = "OASISATE_results.csv"
+rpe_csv = "OASISRPE_results.csv"
+plot_dir = "OASISResultsErrorOverTime"
 os.makedirs(plot_dir, exist_ok=True)
 
 # Init CSV headers
@@ -31,11 +31,11 @@ with open(rpe_csv, "w") as f:
     f.write("run_id,dataset,trans_rmse,rot_rmse\n")
 
 # Search MaskingResults for folders starting with 2025
-for folder_name in os.listdir("MaskingResults"):
+for folder_name in os.listdir("OASISResults"):
     if not folder_name.startswith("2025"):
         continue
 
-    folder_path = os.path.join("MaskingResults", folder_name)
+    folder_path = os.path.join("OASISResults", folder_name)
     print(f"\nChecking folder: {folder_name}")
 
     # Identify dataset from folder name
