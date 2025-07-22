@@ -54,8 +54,6 @@ def plot_errors(trans_errors, rot_errors, output_path=None):
     plt.tight_layout()
     if output_path:
         plt.savefig(output_path)
-    else:
-        plt.show()
 
 def write_rpe_metrics_to_csv(csv_path, run_id, dataset, trans_errors, rot_errors):
     rmse_trans = np.sqrt(np.mean(np.square(trans_errors)))
