@@ -18,24 +18,24 @@ GT_FILES = {
 }
 
 # Output files
-ate_csv = "OASISATE_results.csv"
-rpe_csv = "OASISRPE_results.csv"
-plot_dir = "OASISResultsErrorOverTime"
+ate_csv = "Jetson_OASISATE_results.csv"
+rpe_csv = "Jetson_OASISRPE_results.csv"
+plot_dir = "Jetson_OASISResultsErrorOverTime"
 os.makedirs(plot_dir, exist_ok=True)
 
 # Init CSV headers
 with open(ate_csv, "w") as f:
-    f.write("run_id,rmse,mean,max,std,median\n")
+    f.write("run_id,dataset,rmse,mean,max,std,median,scale_factor\n")
 
 with open(rpe_csv, "w") as f:
-    f.write("run_id,dataset,trans_rmse,rot_rmse\n")
+    f.write("run_id,dataset,trans_rmse,trans_mean,trans_median,trans_std,trans_max,rot_rmse,rot_mean,rot_median,rot_std,rot_max\n")
 
-# Search MaskingResults for folders starting with 2025
-for folder_name in os.listdir("OASISResults"):
-    if not folder_name.startswith("2025"):
+# Search MaskingResults for folders starting with 2026
+for folder_name in os.listdir("MaskingResults"):
+    if not folder_name.startswith("2026"):
         continue
 
-    folder_path = os.path.join("OASISResults", folder_name)
+    folder_path = os.path.join("MaskingResults", folder_name)
     print(f"\nChecking folder: {folder_name}")
 
     # Identify dataset from folder name
@@ -87,12 +87,11 @@ for folder_name in os.listdir("OASISResults"):
         print(f"[WARN] ATE failed for {folder_name}")
 
     # # ----------- RPE -----------
-    # print("Running RPE")
-    # subprocess.run([
-    # "python", "scripts/evaluate_rpe_scale.py",
-    # gt_file, kf_file, "--csv", rpe_csv
-    # ], check=True)
-
+    print("Running RPE")
+    subprocess.run([
+        "python", "scripts/evaluate_rpe_scale.py",
+        gt_file, kf_file, "--csv", rpe_csv
+        ], check=True)
 
 
     # ----------- ERROR OVER TIME -----------

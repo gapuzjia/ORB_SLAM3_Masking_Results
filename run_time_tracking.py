@@ -2,7 +2,7 @@ import os
 import csv
 
 results_dir = "MaskingResults"
-output_csv = "TrackingTimeAvg.csv"
+output_csv = "Jetson_TrackingTimeAvg.csv"
 
 # Create header
 with open(output_csv, "w", newline="") as f:
@@ -11,7 +11,7 @@ with open(output_csv, "w", newline="") as f:
 
 # Process each result folder
 for folder in os.listdir(results_dir):
-    if not folder.startswith("2025"):
+    if not folder.startswith("2026"):
         continue
 
     folder_path = os.path.join(results_dir, folder)

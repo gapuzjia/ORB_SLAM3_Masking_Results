@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Modified by Raul Mur-Artal
-# Automatically compute the optimal scale factor for monocular VO/SLAM.
+# Modified for stereo-inertial SLAM evaluation (no scale correction)
+# Original by Raul Mur-Artal (monocular with scale correction)
 # Software License Agreement (BSD License)
 #
 # Copyright (c) 2013, Juergen Sturm, TUM
@@ -38,7 +38,8 @@
 
 """
 This script computes the absolute trajectory error from the ground truth
-trajectory and the estimated trajectory.
+trajectory and the estimated trajectory for STEREO-INERTIAL SLAM systems
+(metric scale, no scale correction applied).
 """
 
 import sys
@@ -60,6 +61,7 @@ def align(model, data):
         rot -- rotation matrix (3x3)
         trans -- translation vector (3x1)
         trans_error -- translational error per point (1xn)
+        scale -- computed scale factor (for logging only)
     """
     numpy.set_printoptions(precision=3, suppress=True)
     model_zerocentered = model - model.mean(1)
@@ -76,6 +78,7 @@ def align(model, data):
     rot = U * S * Vh
     rotmodel = rot * model_zerocentered
 
+    # Compute scale factor (for reporting, but NOT applied in stereo mode)
     dots = 0.0
     norms = 0.0
     for column in range(data_zerocentered.shape[1]):
@@ -84,18 +87,14 @@ def align(model, data):
         norms += normi * normi
     s = float(dots / norms)
 
-    transGT = data.mean(1) - s * rot * model.mean(1)
+    # Translation WITHOUT scale correction (for metric-scale systems)
     trans = data.mean(1) - rot * model.mean(1)
-    model_alignedGT = s * rot * model + transGT
     model_aligned = rot * model + trans
 
-    alignment_errorGT = model_alignedGT - data
     alignment_error = model_aligned - data
-
-    trans_errorGT = numpy.sqrt(numpy.sum(numpy.multiply(alignment_errorGT, alignment_errorGT), 0)).A[0]
     trans_error = numpy.sqrt(numpy.sum(numpy.multiply(alignment_error, alignment_error), 0)).A[0]
 
-    return rot, transGT, trans_errorGT, trans, trans_error, s
+    return rot, trans, trans_error, s
 
 
 def plot_traj(ax, stamps, traj, style, color, label):
@@ -139,7 +138,7 @@ if __name__ == "__main__":
     # parse command line
     parser = argparse.ArgumentParser(description='''
     This script computes the absolute trajectory error from the ground truth trajectory
-    and the estimated trajectory.
+    and the estimated trajectory for STEREO-INERTIAL SLAM (no scale correction).
     ''')
     parser.add_argument('first_file',
                         help='ground truth trajectory (format: timestamp tx ty tz qx qy qz qw)')
@@ -152,7 +151,7 @@ if __name__ == "__main__":
                         help='scaling factor for the second trajectory (default: 1.0)',
                         default=1.0)
     parser.add_argument('--max_difference',
-                        help='maximally allowed time difference for matching entries (default: 10000000 ns)',
+                        help='maximally allowed time difference for matching entries (default: 20000000 ns)',
                         default=20000000)
     parser.add_argument('--save',
                         help='save aligned second trajectory to disk (format: stamp2 x2 y2 z2)')
@@ -166,8 +165,7 @@ if __name__ == "__main__":
                          'in meters after alignment will be printed)',
                         action='store_true')
     parser.add_argument('--verbose2',
-                        help='print scale error and RMSE absolute translational error in meters '
-                         'after alignment with and without scale correction',
+                        help='print scale factor and RMSE absolute translational error in meters',
                         action='store_true')
     parser.add_argument('--csv_output',
                         help='CSV file to write ATE summary',
@@ -202,16 +200,14 @@ if __name__ == "__main__":
         ]
     ).transpose()
 
-    # Perform alignment
-    rot, transGT, trans_errorGT, trans, trans_error, scale = align(second_xyz, first_xyz)
+    # Perform alignment (NO scale correction for stereo-inertial)
+    rot, trans, trans_error, scale = align(second_xyz, first_xyz)
 
-    # Aligned second trajectory (with scale correction)
-    second_xyz_aligned = scale * rot * second_xyz + trans
-    # Aligned second trajectory (without scale correction)
-    second_xyz_notscaled = rot * second_xyz + trans
-    second_xyz_notscaled_full = rot * second_xyz_full + trans
+    # Aligned second trajectory (WITHOUT scale correction - appropriate for stereo)
+    second_xyz_aligned = rot * second_xyz + trans
+    second_xyz_full_aligned = rot * second_xyz_full + trans
 
-    # Build full matrices for the first_xyz_full and second_xyz_full
+    # Build full matrices for plotting
     first_stamps = sorted(first_list.keys())
     first_xyz_full = numpy.matrix(
         [[float(value) for value in first_list[b][0:3]] 
@@ -224,8 +220,6 @@ if __name__ == "__main__":
          for b in second_stamps]
     ).transpose()
 
-    second_xyz_full_aligned = scale * rot * second_xyz_full + trans
-
     # Print results
     if args.verbose:
         print(f"compared_pose_pairs {len(trans_error)} pairs")
@@ -236,33 +230,34 @@ if __name__ == "__main__":
         print(f"absolute_translational_error.min {numpy.min(trans_error)} m")
         print(f"absolute_translational_error.max {numpy.max(trans_error)} m")
         print(f"max idx: {numpy.argmax(trans_error)}")
+        print(f"computed_scale_factor: {scale} (not applied in stereo mode)")
 
     if args.csv_output:
+        # ALL metrics use trans_error (without scale correction)
         rmse_val = numpy.sqrt(numpy.dot(trans_error, trans_error) / len(trans_error))
         mean_val = numpy.mean(trans_error)
         max_val = numpy.max(trans_error)
         std_val = numpy.std(trans_error)
         median_val = numpy.median(trans_error)
 
-        dataset = os.path.basename(args.first_file).replace(".txt", "")
+        dataset = os.path.basename(args.first_file).replace(".txt", "").replace(".csv", "")
         run_id = os.path.basename(args.second_file).replace(".txt", "")
         file_exists = os.path.isfile(args.csv_output)
 
         with open(args.csv_output, mode='a', newline='') as csvfile:
             writer = csv.writer(csvfile)
             if not file_exists:
-                writer.writerow(["run_id", "dataset", "rmse", "mean", "max", "std", "median"])
-            writer.writerow([run_id, dataset, rmse_val, mean_val, max_val, std_val, median_val])
+                writer.writerow(["run_id", "dataset", "rmse", "mean", "max", "std", "median", "scale_factor"])
+            writer.writerow([run_id, dataset, rmse_val, mean_val, max_val, std_val, median_val, scale])
     else:
-        # RMSE with scale correction, scale factor, and RMSE without scale correction
-        rmse_scale = numpy.sqrt(numpy.dot(trans_error, trans_error) / len(trans_error))
-        rmse_no_scale = numpy.sqrt(numpy.dot(trans_errorGT, trans_errorGT) / len(trans_errorGT))
-        print(f"{rmse_scale},{scale},{rmse_no_scale}")
+        # Print: RMSE, scale factor (for information only)
+        rmse_val = numpy.sqrt(numpy.dot(trans_error, trans_error) / len(trans_error))
+        print(f"{rmse_val},{scale}")
 
     if args.verbose2:
         print(f"compared_pose_pairs {len(trans_error)} pairs")
         print(f"absolute_translational_error.rmse {numpy.sqrt(numpy.dot(trans_error, trans_error) / len(trans_error))} m")
-        print(f"absolute_translational_errorGT.rmse {numpy.sqrt(numpy.dot(trans_errorGT, trans_errorGT) / len(trans_errorGT))} m")
+        print(f"computed_scale_factor: {scale} (not applied)")
 
     # Save associations if requested
     if args.save_associations:
@@ -282,7 +277,7 @@ if __name__ == "__main__":
             f.write("\n".join([
                 f"{stamp:.6f} " + " ".join([f"{d:.6f}" for d in line])
                 for stamp, line in zip(second_stamps,
-                                       second_xyz_notscaled_full.transpose().A)
+                                       second_xyz_full_aligned.transpose().A)
             ]))
 
     # Plot if requested
@@ -308,4 +303,3 @@ if __name__ == "__main__":
         ax.set_ylabel('y [m]')
         plt.axis('equal')
         plt.savefig(args.plot, format="pdf")
-
