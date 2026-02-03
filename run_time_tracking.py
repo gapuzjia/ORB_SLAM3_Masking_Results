@@ -2,7 +2,7 @@ import os
 import csv
 
 results_dir = "MaskingResults"
-output_csv = "Jetson_TrackingTimeAvg.csv"
+output_csv = "Pi_TrackingTimeAvg.csv"
 
 # Create header
 with open(output_csv, "w", newline="") as f:
